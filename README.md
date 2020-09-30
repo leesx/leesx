@@ -3,7 +3,7 @@
 💬 About me  ...
 ```
 <Mail src="wallst6688@gmail.com" />
-<Telphone src="" />
+<Telphone value="***3251" />
 <Skills list=['Javascript', 'React.js', 'Node.js'] />
 
 ```
