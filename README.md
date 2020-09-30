@@ -1,6 +1,12 @@
 ### Hi 来自一位web前端开发工程师的问候 👋
 
-### Javascript React.js Node.js
+💬 About me  ...
+```
+<Mail src="wallst6688@gmail.com" />
+<Telphone src="" />
+<Skills list=['Javascript', 'React.js', 'Node.js'] />
+
+```
 
 
 
