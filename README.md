@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 来自一位web前端开发工程师的问候 👋
+
+### Javascript React.js Node.js
 
 <!--
 **leesx/leesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
