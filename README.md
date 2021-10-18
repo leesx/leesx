@@ -2,6 +2,7 @@
 # © 2020
 ### Hello
 
+✨✨✨ [思维导图](https://gitmind.cn/app/my)
 
 💬 About me  ...
 
